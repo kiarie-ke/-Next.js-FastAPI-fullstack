@@ -7,6 +7,8 @@ Stack
 - **Frontend** — Next.js 14, Tailwind CSS, Axios
 - **Backend** — FastAPI, SQLite, bcrypt, JWT
 
+uvicorn main:app --reload
+
 Features
 
 - Register and login with JWT authentication
